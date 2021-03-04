@@ -1,0 +1,4 @@
+[submodule "fortigateazureha"]
+	path = fortigateazureha
+	url = https://github.com/justingrote/fortigateazureha
+	branch = main
